@@ -55,6 +55,20 @@ Enfocada en el desarrollo **Backend**, **Sistemas Distribuidos** y diseño de so
 
 ---
 
+### 🎮 Zona Recreativa
+
+<details>
+  <summary><b>🐎 Hacé clic acá si necesitás una pausa (Caballito girando)</b></summary>
+  <p align="center">
+    <br>
+    <img src="./assets/horse.gif" alt="Caballito girando en círculos" width="380" />
+    <br>
+    <em>Bucle infinito de tranquilidad antes de volver al código.</em>
+  </p>
+</details>
+
+---
+
 ### 📫 Contacto
 
 - **Correo:** [caizagisselle@gmail.com](mailto:caizagisselle@gmail.com)
