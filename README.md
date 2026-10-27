@@ -1,61 +1,64 @@
-# ¡Hola! Soy Gisselle 👋 (Gissella19)
+# ¡Hola! Soy Gisselle Espín Caiza 👋
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Estudiante_de_Software-blue?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Semester-4to_%26_5to-purple?style=for-the-badge" alt="Semestre">
-  <img src="https://img.shields.io/badge/Location-Ambato,_Ecuador-red?style=for-the-badge" alt="Ubicación">
-</p>
+> **Estudiante de Ingeniería de Software | Universidad Técnica de Ambato (UTA)**  
+> Ambato, Ecuador 🇪🇨
 
----
-
-### 🚀 Sobre mí
-
-Soy estudiante de la carrera de **Software** en la **Universidad Técnica de Ambato (UTA)**. Actualmente me encuentro cursando el cuarto y quinto semestre, enfocándome en el desarrollo de soluciones robustas, limpias y escalables. Me apasiona el backend, la arquitectura de software y aprender nuevas tecnologías para resolver problemas reales.
-
-- 🔭 Actualmente trabajando en: Proyectos de integración de bases de datos y lógica de negocio.
-- 🌱 Aprendiendo: Arquitectura Limpia (Clean Architecture), Principios SOLID y NestJS.
-- 💬 Pregúntame sobre: C#, TypeScript y desarrollo web básico.
-- 📫 Cómo contactarme: [caizagisselle@gmail.com](mailto:caizagisselle@gmail.com)
+Enfocada en el desarrollo **Backend**, **Sistemas Distribuidos** y diseño de software escalable. Cuento con experiencia práctica implementando microservicios, balanceo de carga, tolerancia a fallos y aplicaciones fullstack modernas.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 💼 Habilidades Blandas & Metodología
 
-| Categoría | Herramientas |
-| :--- | :--- |
-| **Lenguajes** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| **Frameworks/Lib** | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=white) |
-| **Herramientas** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+* **Pensamiento analítico y sistémico:** Capacidad para estructurar soluciones distribuidas, desacoplar dominios y resolver problemas de concurrencia y flujo de datos.
+* **Trabajo en equipo y metodologías ágiles:** Experiencia en dinámicas Scrum, integración continua y gestión formal de solicitudes de cambio de software (Change Requests).
+* **Adaptabilidad técnica:** Solvencia para transicionar entre diversos ecosistemas (.NET, Spring Boot, React, PHP) según los requerimientos del proyecto.
+* **Documentación y rigor técnico:** Diseño de contratos de API estructurados (OpenAPI/Postman) y especificaciones claras de arquitectura.
 
 ---
 
-### 📌 Proyectos Destacados
+### 🛠️ Stack Tecnológico
 
-#### [Factura_Agiles](https://github.com/Gissella19/Factura_Agiles) 🧾
-_Un sistema enfocado en la gestión de facturación aplicando metodologías ágiles y lógica de negocio estructurada._
-* **Tecnologías:** TypeScript, Node.js.
-* **Enfoque:** Validación de datos y eficiencia en procesos.
+* **Backend & Arquitectura:** C# (.NET Web API, Microservicios), Java (Spring Boot, Arquitectura SOA), PHP (APIs REST).
+* **Frontend:** TypeScript, JavaScript, React 19, Vite, HTML5, CSS3.
+* **Bases de Datos & Cloud:** PostgreSQL, Supabase.
+* **DevOps & Infraestructura:** NGINX (Reverse Proxy, Load Balancing), Git, GitHub, Postman.
+* **Conceptos & Patrones:** Arquitectura Orientada a Servicios (SOA), Clean Architecture, Principios SOLID, Tolerancia a Fallos, Monitoreo de Servicios.
 
-#### [CEDIA](https://github.com/Gissella19/CEDIA) 🌐
-_Proyecto relacionado con redes de investigación y desarrollo académico._
+---
 
-#### [Jarras Juego (BFS)](https://github.com/Gissella19) 🏺
-_Implementación del algoritmo de búsqueda en anchura (BFS) para resolver el clásico problema de las jarras de agua._
-* **Lenguaje:** C# / .NET.
+### 🚀 Proyectos Destacados
+
+#### [Factura_Agiles](https://github.com/Gissella19/Factura_Agiles) — Sistema de Facturación Basado en Microservicios
+* **Arquitectura:** Desacoplamiento por dominios con servicios independientes en **C# / .NET** (`ApiClientes`, `ApiFacturacion`, `ApiProductoVentas`) consumidos por una SPA reactiva en **React + TypeScript + Vite**.
+* **Foco técnico:** Modularidad, validación de reglas de negocio y patrones de integración backend.
+
+#### [APE-3: Balanceo, Monitoreo y Tolerancia a Fallos](https://github.com/Gissella19/APE-3_SOA_Implementaci-n-de-balanceo-avanzado-monitoreo-y-tolerancia-a-fallos) — Infraestructura SOA Distribuida
+* **Arquitectura:** Servicios en **Spring Boot (Java)** orquestados tras un proxy inverso y balanceador de carga con **NGINX**.
+* **Foco técnico:** Alta disponibilidad, monitoreo de salud del clúster, seguridad perimetral y mitigación de caídas de servicio.
+
+#### [PVisualBD](https://github.com/Gissella19/PVisualBD) — Plataforma Fullstack React 19 & Supabase
+* **Arquitectura:** Single Page Application construida con **React 19**, **React Router v7** y persistencia relacional en tiempo real con **Supabase (PostgreSQL)**.
+* **Foco técnico:** Modelado relacional, tipado estricto con TypeScript y consumo de servicios BaaS.
+
+#### [Gestión de Control de Cambios](https://github.com/Gissella19/formularios-de-control-de-cambio-manejo) — Flujo de Trabajo ITIL
+* **Arquitectura:** Sistema de gestión del ciclo de vida del software enfocado en roles (Desarrollador / Usuario) y trazabilidad de Change Requests (CR).
+* **Foco técnico:** Procesos de calidad de software, gobernanza y versionado.
 
 ---
 
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gissella19&show_icons=true&theme=tokyonight" alt="Estadísticas de Gissella19" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gissella19&show_icons=true&theme=tokyonight&hide_border=true&title_color=61afef&icon_color=98c379&text_color=abb2bf&bg_color=1e222a" alt="Estadísticas de Gissella19" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gissella19&layout=compact&theme=tokyonight&hide_border=true&title_color=61afef&text_color=abb2bf&bg_color=1e222a" alt="Lenguajes más usados" height="160" />
 </p>
 
 ---
 
-### ✒️ Autores y Contribuciones
-* **Gisselle Espín Caiza** - *Desarrollo e Investigación* - [Gissella19](https://github.com/Gissella19)
-* Agradecimiento especial a mis compañeros de equipo de la UTA por las colaboraciones en los repositorios grupales.
+### 📫 Contacto
+
+- **Correo:** [caizagisselle@gmail.com](mailto:caizagisselle@gmail.com)
+- **GitHub:** [@Gissella19](https://github.com/Gissella19)
 
 ---
-⌨️ con ❤️ por [Gissella19](https://github.com/Gissella19) 😊
+⌨️ con dedicación y buenas prácticas por [Gissella19](https://github.com/Gissella19)
